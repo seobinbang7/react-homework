@@ -2,6 +2,7 @@
 
 
 - [figma 링크](https://www.figma.com/file/gXMZpQ0drs6EafGBHlhTMh/Untitled?type=design&node-id=0-1&mode=design&t=UIzBIMYcRpTOlupy-0)
+
 toggle 애니메이션 적용했습니다 privew에서 확인 가능합니다
 
 
