@@ -5,6 +5,8 @@
 
 toggle 애니메이션 적용했습니다 privew에서 확인 가능합니다
 
+![A7CB13E4-1AE5-49CF-9FC4-60CA89BE69D5](https://github.com/seobinbang7/react-homework/assets/45528125/f9952455-dc6c-4ab7-874b-db79df921665)
+
 
 -------
 
