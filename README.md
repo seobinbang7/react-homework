@@ -25,11 +25,11 @@ click 이벤트가 발생하면 isOn의 값인 false가 true로 업데이트되�
 
 ```
 return (
-    <>
+   <>
       <div
-        className={`toggle-btn ${isOn ? 'on' : 'off'}`}
+        className={`toggle-btnL ${isOn ? 'on' : 'off'}`}
       >
-        <div className="circle" onClick={toggleEvent}></div>
+        <div className="circleL" onClick={toggleEvent}></div>
       </div>
     </>
   );
