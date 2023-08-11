@@ -1,0 +1,14 @@
+.modeText {
+  margin-top: 70px;
+  display: flex;
+  justify-content: center;
+}
+
+.onOffBox {
+  display: flex;
+  gap: 70px;
+}
+
+.onBox {
+  margin-bottom: 40px;
+}
