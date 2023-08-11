@@ -1,12 +1,12 @@
-import Toggle from './pages/Toggle/Toggle';
+import ModeText from '@/pages/toggle/ModeText';
+import ToggleL from '@/pages/toggle/ToggleL';
+import './styles/global.css';
 
 function App() {
   return (
     <div className="App">
-      <>
-        <Toggle />
-      </>
-      
+      <ToggleL></ToggleL>
+      <ModeText></ModeText>
     </div>
   );
 }
